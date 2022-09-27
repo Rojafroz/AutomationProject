@@ -29,6 +29,8 @@ public class BaseClass {
 	
 		System.out.println("the titel of the page is :" +driver.getTitle());
 		
+		
+		System.out.println("Github is created");
 		driver.close();
 	}
 	
